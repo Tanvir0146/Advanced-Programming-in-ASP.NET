@@ -1,0 +1,4 @@
+D:\LabTaskPractice\LabTaskPractice\obj\Debug\LabWork.csprojAssemblyReference.cache
+D:\LabTaskPractice\LabTaskPractice\obj\Debug\LabWork.csproj.CoreCompileInputs.cache
+D:\LabTaskPractice\LabTaskPractice\obj\Debug\LabTaskPractice.dll
+D:\LabTaskPractice\LabTaskPractice\obj\Debug\LabTaskPractice.pdb
